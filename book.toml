@@ -35,7 +35,7 @@ enable=true
 limit-results = 15
 
 [output.html.playpen]
-# editor = "./path/to/editor"
+# editor = " ./path/to/editor"
 editable = false
 
 #[output.latex]
