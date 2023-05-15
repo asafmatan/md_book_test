@@ -30,6 +30,6 @@
 
 # Chapter 6
 
-## Section 1
+## Section 12
 
 ## Section 2
